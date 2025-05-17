@@ -27,7 +27,6 @@ Il inclut également un **lecteur de fichiers PGN** interactif, permettant de vi
   - N° de coup
   - Coup des Blancs / Noirs
   - Commentaires intégrés
-- 🔎 Affichage des variantes possibles (optionnel ou supprimé)
 - 📤 Export du fichier PGN temporaire vers Lucas Chess (si installé)
 
 ---
